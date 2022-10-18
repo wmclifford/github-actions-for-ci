@@ -1,5 +1,5 @@
 const Game = require('../src/game').default
-const fs = require('fs')
+// const fs = require('fs')
 
 // Disabling this test
 // Looks like something changed in the generated JS where double-quotes are not escaped now.
